@@ -1,5 +1,4 @@
-LNMIIT-Services
-Leave Applicaton, Bus Management and Inventory Management services
+LNMIIT- Bus Service
 
 Installation Guide
 You must check php,apache and mysql installation option while installing xampp
